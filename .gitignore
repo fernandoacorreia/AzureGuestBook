@@ -1,0 +1,6 @@
+*.suo
+*.cache
+*.user
+bin/
+obj/
+ServiceDefinition.build.csdef
